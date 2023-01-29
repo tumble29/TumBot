@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8371b9a1-7496-4137-9295-3142c0e461fb/appservices/subscriptions/8371b9a1-7496-4137-9295-3142c0e461fb/resourceGroups/Tumble/providers/Microsoft.Web/sites/TumBot",
+    "appService.deploySubpath": "."
+}
