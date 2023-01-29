@@ -158,11 +158,5 @@ module.exports={
           console.log('Button custom ID error');
       }
     })
-
-
-    
-    
-
-    // await interaction.editReply('You won');
   }
 }
